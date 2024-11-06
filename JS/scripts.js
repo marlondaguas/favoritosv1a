@@ -39,7 +39,7 @@ const sitesSura = [
     { name: "Salud Web", url: "https://login.sura.com/sso/servicelogin.aspx?continueTo=https%3A%2F%2Fsaludweb.suramericana.com%2Fsaludweb%2F&service=salud", image: "./IMG/app.png" },
     { name: "Servicios a un Clic", url: "https://portaleps.epssura.com/ServiciosUnClick/", image: "./IMG/app.png" },
     { name: "Eventos Adversos Regional Norte", url: "https://forms.office.com/Pages/ResponsePage.aspx?id=S6q48XMM30ySUZubC9zVp-nqrrGNgSlLvHS057gXxCRUMzMzNUlSTjRCNTFDM0k0U1hFV1BRN1dNSC4u", image: "./IMG/app.png" },
-    { name: "Viva", url: "", image: "./IMG/app.png" },
+    { name: "CONTINGENCIA SURA", url: "https://seus.sura.com/idp/login/default?continueTo=https%3A%2F%2Fcontiatenpa.suramericana.com.co%2F&service=somossura", image: "./IMG/app.png" },
     { name: "Viva", url: "", image: "./IMG/app.png" },
 ];
 
