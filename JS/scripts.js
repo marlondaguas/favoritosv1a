@@ -20,7 +20,7 @@ const sitesAlternos = [
     { name: "Imagenes Vitales", url: "https://imagenesvitales.co/resultados/", image: "./IMG/app.png" },
     { name: "Mas Imagenes", url: "https://massimagenes.co/", image: "./IMG/app.png" },
     { name: "Adres Consulta", url: "https://www.adres.gov.co/consulte-su-eps", image: "./IMG/app.png" },
-    { name: "Prevrenal", url: "https://mutualser.prevrenal.org/", image: "./IMG/app.png" },
+    { name: "Prevrenal", url: "https://mutualser.prevrenal.co/", image: "./IMG/app.png" },
     { name: "Mutual Ser Consulta Afiliado", url: "https://www.mutualser.com/ser-afiliado/", image: "./IMG/app.png" },
     { name: "Zona Ser", url: "https://portal.mutualser.org/ZONASER/", image: "./IMG/app.png" },
     { name: "Correo Outlook", url: "https://login.microsoftonline.com/", image: "./IMG/app.png" },
