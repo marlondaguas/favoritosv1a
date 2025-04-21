@@ -40,7 +40,7 @@ const sitesSura = [
     { name: "Servicios a un Clic", url: "https://portaleps.epssura.com/ServiciosUnClick/", image: "./IMG/app.png" },
     { name: "Eventos Adversos Regional Norte", url: "https://forms.office.com/Pages/ResponsePage.aspx?id=S6q48XMM30ySUZubC9zVp-nqrrGNgSlLvHS057gXxCRUMzMzNUlSTjRCNTFDM0k0U1hFV1BRN1dNSC4u", image: "./IMG/app.png" },
     { name: "CONTINGENCIA SURA", url: "https://seus.sura.com/idp/login/default?continueTo=https%3A%2F%2Fcontiatenpa.suramericana.com.co%2F&service=somossura", image: "./IMG/app.png" },
-    { name: "Viva", url: "", image: "./IMG/app.png" },
+    { name: "Servicios Tecnologicos", url: "https://soportetecnologico.arus.com.co:18081/auth/sign-in", image: "./IMG/app.png" },
 ];
 
 // Contenedor donde se agregarán los recuadros
