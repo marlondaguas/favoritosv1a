@@ -13,7 +13,7 @@ const sitesV1a = [
     { name: "Mesa De Servicios, Monta el ticket", url: "http://mesadeservicios.viva1a.com.co/glpi/", image: "./IMG/app.png" },
     { name: "Asignacion Citas de Laboratorio", url: "https://appcita.viva1a.com.co:8051/laboratorio/agente", image: "./IMG/app.png" },
     { name: "Intranet", url: "http://intranet.viva1a.com.co/", image: "./IMG/app.png" },
-    { name: "EKG", url: "\\192.168.200.110\fs_viva1a\Archivos Soledad\SEDE SOLEDAD\EKG DTC 2023-2024\2025 EKG", image: "./IMG/app.png" },
+    { name: "EKG", url: "file://\\192.168.200.110\fs_viva1a\Archivos Soledad\SEDE SOLEDAD\EKG DTC 2023-2024\2025 EKG", image: "./IMG/app.png" },
 ];
 
 const sitesAlternos = [
