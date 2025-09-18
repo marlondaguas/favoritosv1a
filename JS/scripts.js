@@ -13,7 +13,7 @@ const sitesV1a = [
     { name: "Mesa De Servicios, Monta el ticket", url: "http://mesadeservicios.viva1a.com.co/glpi/", image: "./IMG/app.png" },
     { name: "Asignacion Citas de Laboratorio", url: "https://appcita.viva1a.com.co:8051/laboratorio/agente", image: "./IMG/app.png" },
     { name: "Intranet", url: "http://intranet.viva1a.com.co/", image: "./IMG/app.png" },
-    { name: "EKG", url: "file://192.168.200.110/fs_viva1a/Archivos Soledad/SEDE SOLEDAD", image: "./IMG/app.png" },
+    { name: "Listado Laboraorio", url: "http://intranet.viva1a.com.co/agendamiento/Login/Index?ReturnUrl=%2fagendamiento%2fAdmin", image: "./IMG/app.png" },
 ];
 
 const sitesAlternos = [
@@ -40,7 +40,7 @@ const sitesSura = [
     { name: "Servicios a un Clic", url: "https://portaleps.epssura.com/ServiciosUnClick/", image: "./IMG/app.png" },
     { name: "Eventos Adversos Regional Norte", url: "https://forms.office.com/Pages/ResponsePage.aspx?id=S6q48XMM30ySUZubC9zVp-nqrrGNgSlLvHS057gXxCRUMzMzNUlSTjRCNTFDM0k0U1hFV1BRN1dNSC4u", image: "./IMG/app.png" },
     { name: "CONTINGENCIA SURA", url: "https://seus.sura.com/idp/login/default?continueTo=https%3A%2F%2Fcontiatenpa.suramericana.com.co%2F&service=somossura", image: "./IMG/app.png" },
-    { name: "Servicios Tecnologicos", url: "https://soportetecnologico.arus.com.co:18081/auth/sign-in", image: "./IMG/app.png" },
+    { name: "Servicios Tecnologicos", url: "https://surasoporteti-dwp.onbmc.com/dwp/app/#/catalog", image: "./IMG/app.png" },
 ];
 
 // Contenedor donde se agregarán los recuadros
