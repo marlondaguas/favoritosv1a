@@ -1,6 +1,6 @@
 // Objeto que contiene las URLs y las imágenes
 const sitesV1a = [
-    { name: "Everest Nuevo", url: "https://cloud.tg6.everestintelligent.com.co/viva/EverHealth/", image: "./IMG/app.png" },
+    { name: "Everest Nuevo", url: "https://cloud.tg6.everestintelligent.com.co/viva/EverHealth/", image: "./IMG/logo-everest.png" },
     { name: "Everest", url: "https://appportal.everestintelligent.com/EverHealth/", image: "./IMG/app.png" },
     { name: "Atril", url: "http://api.digiturno.viva1a.com.co:85/", image: "./IMG/app.png" },
     { name: "Athenea Lab", url: "https://viva1a.atheneasoluciones.com/", image: "./IMG/app.png" },
