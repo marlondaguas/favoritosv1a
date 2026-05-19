@@ -7,7 +7,7 @@ const sitesV1a = [
     { name: "Lumier", url: "https://lumierdigital.com:8443/login.lu", image: "./IMG/app.png" },
     { name: "Mipres", url: "https://mipres.sispro.gov.co/MIPRESNOPBS/Login.aspx", image: "./IMG/app.png" },
     { name: "Annarlitycs", url: "http://datacare.viva1a.com.co:8080/datacare/#nbb", image: "./IMG/app.png" },
-    { name: "Eventos Adversos Regional Costa", url: "https://forms.office.com/Pages/ResponsePage.aspx?id=S6q48XMM30ySUZubC9zVp-nqrrGNgSlLvHS057gXxCRUNjVMUTJNV043U0s1QlZOSTdLOTBXWDY4US4u", image: "./IMG/app.png" },
+    { name: "Eventos Adversos Regional Costa", url: "https://forms.cloud.microsoft/r/5ctpshK0yP ", image: "./IMG/app.png" },
     { name: "Viva Aprendiendo", url: "http://vivaaprendiendo.com.co", image: "./IMG/app.png" },
     { name: "Mi Portal", url: "https://miportalgh.com/", image: "./IMG/app.png" },
     { name: "Mesa De Servicios, Monta el ticket", url: "http://mesadeservicios.viva1a.com.co/glpi/", image: "./IMG/app.png" },
@@ -38,7 +38,7 @@ const sitesSura = [
     { name: "Agenda Web", url: "https://login.sura.com/sso/servicelogin.aspx?continueTo=https%3A%2F%2Fagendaweb.suramericana.com%2Fagenda&service=salud", image: "./IMG/app.png" },
     { name: "Salud Web", url: "https://login.sura.com/sso/servicelogin.aspx?continueTo=https%3A%2F%2Fsaludweb.suramericana.com%2Fsaludweb%2F&service=salud", image: "./IMG/app.png" },
     { name: "Servicios a un Clic", url: "https://portaleps.epssura.com/ServiciosUnClick/", image: "./IMG/app.png" },
-    { name: "Eventos Adversos Regional Norte", url: "https://forms.office.com/Pages/ResponsePage.aspx?id=S6q48XMM30ySUZubC9zVp-nqrrGNgSlLvHS057gXxCRUMzMzNUlSTjRCNTFDM0k0U1hFV1BRN1dNSC4u", image: "./IMG/app.png" },
+    { name: "Eventos Adversos Regional Norte", url: "https://forms.cloud.microsoft/r/5ctpshK0yP ", image: "./IMG/app.png" },
     { name: "CONTINGENCIA SURA", url: "https://seus.sura.com/idp/login/default?continueTo=https%3A%2F%2Fcontiatenpa.suramericana.com.co%2F&service=somossura", image: "./IMG/app.png" },
     { name: "Servicios Tecnologicos", url: "https://surasoporteti-dwp.onbmc.com/dwp/app/#/catalog", image: "./IMG/app.png" },
 ];
