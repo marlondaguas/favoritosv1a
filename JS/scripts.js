@@ -14,6 +14,7 @@ const sitesV1a = [
     { name: "Asignacion Citas de Laboratorio", url: "https://appcita.viva1a.com.co:8051/laboratorio/agente", image: "./IMG/app.png" },
     { name: "Intranet", url: "http://intranet.viva1a.com.co/", image: "./IMG/app.png" },
     { name: "Listado Laboraorio", url: "http://intranet.viva1a.com.co/agendamiento/Login/Index?ReturnUrl=%2fagendamiento%2fAdmin", image: "./IMG/app.png" },
+    { name: "Seguridad del Paciente Regional Norte", url: "https://viva1aips.sharepoint.com/sites/SEGURIDADDELPACIENTEREGIONALNORTE/SitePages/CollabHome.aspx?csf=1&web=1&share=EWoQw8xyzMNOtyp_SDkdMagBR572hPNZvhd6LdLIzegDmg&e=CzSKHC&cid=941938f9-072c-4354-8892-5c83b1bbf4d7", image: "./IMG/app.png" },
 ];
 
 const sitesAlternos = [
